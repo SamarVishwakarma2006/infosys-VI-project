@@ -1,4 +1,4 @@
-🛡️ WebScanPro: Automated Web Application Security Scanner
+WebScanPro: Automated Web Application Security Scanner
 An automated penetration testing tool built to detect OWASP Top 10 vulnerabilities in Single Page Applications (SPAs).
 
 📖 Overview
@@ -74,3 +74,4 @@ This tool is developed for educational and testing purposes only. It is designed
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
